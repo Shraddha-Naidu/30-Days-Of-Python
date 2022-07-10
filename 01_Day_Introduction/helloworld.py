@@ -37,4 +37,9 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
 
 # Boolean is a data that either holds a True or False value
 
+# To check for a data type, use 'type()' in the terminal with the value in the brackets.
+# [] square brackets indicate list
+# {} curly brackets indicate whether its dictionary or set, mutable collection of data
+# () brackets indicate tuple
+
 # """triple quotes""" are used to indicate multi line text, if its not attached to avariable then its a comment
